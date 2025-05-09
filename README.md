@@ -1,7 +1,7 @@
 TO run the project
 
-# Run npm install
-# Run npm run dev
+## Run npm install
+## Run npm run dev
 
 This should run the project on http://localhost:5173/
 
